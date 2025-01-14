@@ -50,7 +50,7 @@ The model achieved an accuracy of approximately 81.4% based on the confusion mat
 
 ## Tested Video Result
 View an example of the tested video output here:  
-[Download Tested Video](Uploading InputVideo (3).mp4…)
+[Download Tested Video](https://drive.google.com/file/d/1-QnFu0Bdxy-To5nsheqA-OatIoIXtzFU/view?usp=sharing)
 
 ## Requirements
 - **Google Colab**: GPU-enabled runtime for training and testing.
