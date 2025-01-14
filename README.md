@@ -1,5 +1,3 @@
-
-https://github.com/user-attachments/assets/07ff877c-ab4e-4957-9aac-58fc3f0121d4
 # Face Emotion Detection System
 
 A YOLOv8-based AI solution for detecting facial emotions in real-time. This system is designed for applications like monitoring, video processing, and emotional data analysis.
